@@ -1,6 +1,8 @@
-Archivo para la actividad 3 - Carlos Martinez Gomez
+Archivo para la actividad 3 - Carlos Martinez Gome
 
 Parrafo #1 desde user1
 Parrado #2 desde user1
 Parrafo #3 desde user1
 Parrafo #4 desde user1
+
+Parrafo desde el HOTFIX
